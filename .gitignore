@@ -1,0 +1,17 @@
+#Ambiente virtual não sobe
+myenv/
+
+
+#DLL FILE
+__pycache__
+
+
+#Pack da distribuição do python
+.Python
+
+
+#mypy
+.mypy_cache/
+
+#servidor
+db.sqlite3
